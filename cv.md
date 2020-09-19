@@ -19,4 +19,4 @@ I independently studied JavaScript using the Internet book https://learn.javascr
 took paid courses online courses at https://htmlacademy.ru/, where studied HTML and CSS. Also self studied React and Redux.
 
 ### Languages
-I can read technical documentaition, but have low speaking skill.
+I can read technical documentaition, but have low speaking skill
