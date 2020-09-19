@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://orest-forest.github.io/rsschool-cv/cv
